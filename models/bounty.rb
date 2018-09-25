@@ -87,7 +87,6 @@ class Bounty
 
 ##########forget about this bit and go home
 
-
   # def delete_id(id_to_delete)
   #   db = PG.connect({dbname: 'bounty_db', host: 'localhost'})
   #   sql = "

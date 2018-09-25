@@ -29,5 +29,5 @@ row1.danger_level = 'medium'
 row1.update
 
 
-###this  v   was a fail forget it
-# row2.delete_id(18)
+###this was me attempting the extension, don't worry about it
+#delete_id(18)
